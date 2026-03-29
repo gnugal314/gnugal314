@@ -1,7 +1,6 @@
 ## Hello, I'm Tori Hawkins 👋
 
-## Data Engineering & Analytics | 
-## Healthcare Systems | AI/ML Enablement
+## Data Engineering & Analytics | Healthcare Systems | AI/ML Enablement
 
 I design and build trusted data systes that transform complex healthcare data into scalable, decision-ready intelligence. 
 
