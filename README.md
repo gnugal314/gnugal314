@@ -1,4 +1,9 @@
-## Hi there 👋
+## Hello, I'm Tori Hawkins 👋
+
+## Data Engineering & Analytics | 
+## Healthcare Systems | AI/ML Enablement
+
+I design and build trusted data systes that transform complex healthcare data into scalable, decision-ready intelligence. 
 
 <!--
 **gnugal314/gnugal314** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
