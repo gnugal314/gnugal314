@@ -69,7 +69,7 @@ From raw ingestion to GenAI retrieval, I focus on creating systems that are:
 ## 🔗 Connect  
 🌐 Portfolio: https://www.github.com/gnugal314
 💼 LinkedIn: https://www.linkedin.com/in/torihawkins/  
-📫 Email: Visit my website to connect!
+📫 Email: For collaboration opportunities, reach out directly through [my site](https://www.metavasis.ai). 
 
 --- 
 
