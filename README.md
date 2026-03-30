@@ -34,7 +34,7 @@ Modern React-based portfolio with modular architecture and CI/CD deployment  
 - Data-driven component structure  
 - Vercel deployment with custom domain  
 
-👉 Live Site: www.metavasis.ai 
+👉 Live Site: [www.metavasis.ai ](https://www.metavasis.ai)
 👉 Repository: https://github.com/gnugal314/project-metavasis  
 
 ---
