@@ -16,7 +16,6 @@ I design and build trusted data systems that transform complex healthcare data i
 
 ---
 
-## 🔹 Technical Stack
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/SQL-025E8C?style=for-the-badge&logo=databricks&logoColor=white" />
@@ -31,6 +30,7 @@ I design and build trusted data systems that transform complex healthcare data i
   <img src="https://img.shields.io/badge/Tailwind_CSS-0F172A?style=for-the-badge&logo=tailwindcss&logoColor=38BDF8" />
   <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
 </p>
+## 🔹 Technical Stack
 <b>Languages & Tools:</b>    
 Python • SQL • Spark • Databricks • Tableau  
 
