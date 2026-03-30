@@ -47,7 +47,7 @@ ETL/ELT Pipelines • CI/CD • Git • Data Modeling • Automation  
 ## 🔹 Selected Work  
 
 ### 🧠 Portfolio Website  
-Modern React-based portfolio with modular architecture and CI/CD deployment  
+Modern React-based website with modular architecture and CI/CD deployment  
 - React + Vite + Tailwind  
 - Data-driven component structure  
 - Vercel deployment with custom domain  
