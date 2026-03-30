@@ -34,7 +34,7 @@ Modern React-based portfolio with modular architecture and CI/CD deployment  
 - Data-driven component structure  
 - Vercel deployment with custom domain  
 
-👉 Live Site: https://yourdomain.com  
+👉 Live Site: https://www.metavasis.ai 
 👉 Repository: https://github.com/gnugal314/project-metavasis  
 
 ---
@@ -67,9 +67,9 @@ From raw ingestion to GenAI retrieval, I focus on creating systems that are:
 ---
 
 ## 🔗 Connect  
-🌐 Portfolio: https://yourdomain.com  
+🌐 Portfolio: https://www.github.com/gnugal314
 💼 LinkedIn: https://www.linkedin.com/in/torihawkins/  
-📫 Email: torihawkins.th@gmail.com  
+📫 Email: Visit my website to connect!
 
 --- 
 
