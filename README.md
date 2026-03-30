@@ -1,8 +1,23 @@
 <h1 align="center"> Hello, I'm Tori Hawkins 👋</h1>
-### Data Engineering & Analytics | Healthcare Systems | AI/ML Enablement  
+<p align="center">
+  <strong>Data Engineering & Analytics | Healthcare Systems | AI/ML Enablement</strong>
+</p>
 
 I design and build trusted data systems that transform complex healthcare data into scalable, decision-ready intelligence.
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-025E8C?style=for-the-badge&logo=databricks&logoColor=white" />
+  <img src="https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white" />
+  <img src="https://img.shields.io/badge/Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white" />
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" />
+</p>
 
+<p align="center">
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-0F172A?style=for-the-badge&logo=tailwindcss&logoColor=38BDF8" />
+  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+</p>
 ---
 
 ## 🔹 Focus Areas
@@ -39,7 +54,7 @@ Modern React-based portfolio with modular architecture and CI/CD deployment  
 
 ---
 
-### 📊 Healthcare Analytics & Visualization (in progress)  
+### 📈 Healthcare Analytics & Visualization (in progress)
 End-to-end analytics project focused on utilization trends and anomaly detection  
 - Python + Pandas + Seaborn  
 - Exploratory analysis and statistical visualization  
