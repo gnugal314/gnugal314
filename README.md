@@ -15,7 +15,7 @@ I design and build trusted data systems that transform complex healthcare data i
 ---
 
 ## 🔹 Technical Stack
-### Languages & Tools:    
+<b>Languages & Tools:</b>    
 Python • SQL • Spark • Databricks • Tableau  
 
 ## Data Platforms & Storage:   
