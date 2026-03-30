@@ -4,6 +4,19 @@
 </p>
 
 I design and build trusted data systems that transform complex healthcare data into scalable, decision-ready intelligence.
+
+---
+
+## 🔹 Focus Areas
+- Enterprise Data Engineering & Distributed Data Platforms  
+- Healthcare Analytics (Claims, Fraud, PBM, Regulatory Reporting)  
+- Data Quality, Governance, and Observability  
+- Analytics Enablement & Executive Reporting  
+- AI/ML Workflow Support and Feature Engineering  
+
+---
+
+## 🔹 Technical Stack
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/SQL-025E8C?style=for-the-badge&logo=databricks&logoColor=white" />
@@ -18,18 +31,6 @@ I design and build trusted data systems that transform complex healthcare data i
   <img src="https://img.shields.io/badge/Tailwind_CSS-0F172A?style=for-the-badge&logo=tailwindcss&logoColor=38BDF8" />
   <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
 </p>
----
-
-## 🔹 Focus Areas
-- Enterprise Data Engineering & Distributed Data Platforms  
-- Healthcare Analytics (Claims, Fraud, PBM, Regulatory Reporting)  
-- Data Quality, Governance, and Observability  
-- Analytics Enablement & Executive Reporting  
-- AI/ML Workflow Support and Feature Engineering  
-
----
-
-## 🔹 Technical Stack
 <b>Languages & Tools:</b>    
 Python • SQL • Spark • Databricks • Tableau  
 
