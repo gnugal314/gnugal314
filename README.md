@@ -1,4 +1,4 @@
-## Hello, I'm Tori Hawkins 👋
+<h1 align="center"> Hello, I'm Tori Hawkins 👋</h1>
 ### Data Engineering & Analytics | Healthcare Systems | AI/ML Enablement  
 
 I design and build trusted data systems that transform complex healthcare data into scalable, decision-ready intelligence.
