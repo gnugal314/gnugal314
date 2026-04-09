@@ -46,7 +46,7 @@ ETL/ELT Pipelines • CI/CD • Git • Data Modeling • Automation  
 
 ## 🔹 Selected Work  
 
-### 🧠 Portfolio Website  
+### 🧠 View my Website  
 Modern React-based website with modular architecture and CI/CD deployment  
 - React + Vite + Tailwind  
 - Data-driven component structure  
@@ -65,7 +65,7 @@ End-to-end analytics project focused on utilization trends and anomaly detection
 
 ---
 
-### ⚙️ Data Pipeline & Analytics Framework (planned)  
+### ⚙️ Data Pipeline & Analytics Framework  
 Scalable pipeline architecture for ingestion, transformation, and analytics consumption  
 - Modular pipeline design  
 - Data quality validation layers  
