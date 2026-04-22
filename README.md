@@ -52,7 +52,7 @@ Modern React-based website with modular architecture and CI/CD deployment  
 - Data-driven component structure  
 - Vercel deployment with custom domain  
 
-👉 Smash the portcullis]:(https://github.com/gnugal314/project-metavasis)  
+👉 [Smash the portcullis]:(https://github.com/gnugal314/project-metavasis)  
 
 ---
 
