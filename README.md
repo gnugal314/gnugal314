@@ -61,7 +61,7 @@ End-to-end analytics project focused on utilization trends and anomaly detection
 - Python + Pandas + Seaborn  
 - Exploratory analysis and statistical visualization  
 - Executive-ready insights and storytelling
-- [Presentation] (https://gamma.app/docs/Healthcare-Analytics--lav7jvztp2dc26i)
+- [Presentation](https://gamma.app/docs/Healthcare-Analytics--lav7jvztp2dc26i)
 
 ---
 
