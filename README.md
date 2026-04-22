@@ -46,13 +46,13 @@ ETL/ELT Pipelines • CI/CD • Git • Data Modeling • Automation  
 
 ## 🔹 Selected Work  
 
-### 🧠 View my Website [www.metavasis.ai ](https://www.metavasis.ai)  
+### 🧠 [View my Website](https://www.metavasis.ai)  
 Modern React-based website with modular architecture and CI/CD deployment  
 - React + Vite + Tailwind  
 - Data-driven component structure  
 - Vercel deployment with custom domain  
 
-👉 [Smash the portcullis]:(https://github.com/gnugal314/project-metavasis)  
+👉 [Smash the portcullis:](https://github.com/gnugal314/project-metavasis)  
 
 ---
 
