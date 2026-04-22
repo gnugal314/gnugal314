@@ -57,7 +57,7 @@ Modern React-based website with modular architecture and CI/CD deployment  
 
 ---
 
-### 📈 Healthcare Analytics & Visualization (https://github.com/gnugal314/healthcare-analytics-platform-demo)
+### 📈 [Healthcare Analytics & Visualization](https://github.com/gnugal314/healthcare-analytics-platform-demo)
 End-to-end analytics project focused on utilization trends and anomaly detection  
 - Python + Pandas + Seaborn  
 - Exploratory analysis and statistical visualization  
