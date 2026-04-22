@@ -52,7 +52,6 @@ Modern React-based website with modular architecture and CI/CD deployment  
 - Data-driven component structure  
 - Vercel deployment with custom domain  
 
-<img src="./scientia-banner.png" width="80"/> 
 👉 [Smash the portcullis:](https://github.com/gnugal314/project-metavasis)  
 
 ---
