@@ -53,9 +53,9 @@ Modern React-based website with modular architecture and CI/CD deployment  
 - Vercel deployment with custom domain  
 
 [Smash the portcullis:](https://github.com/gnugal314/project-metavasis)  
-React + Vite
-
+### React + Vite
 Personal website built with React and deployed on Vercel, showcasing data engineering, analytics, and AI-driven solutions under the Metavasis framework.
+
 ---
 
 ### 📈 [Healthcare Analytics & Visualization](https://github.com/gnugal314/healthcare-analytics-platform-demo)
