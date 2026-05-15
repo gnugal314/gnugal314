@@ -64,7 +64,7 @@ End-to-end analytics project focused on utilization trends and anomaly detection
 
 ---
 
-### ⚙️ [Data Pipeline & Analytics Framework](https://github.com/gnugal314/healthcare-fwa-modernization-platform)  
+### ⚙️ [Healthcare FWA Modernization Platform](https://github.com/gnugal314/healthcare-fwa-modernization-platform)  
 Enterprise-grade reference repository for modernizing a legacy healthcare Fraud, Waste, and Abuse reporting ecosystem to a governed, secure, auditable, automated analytics platform:
 - Medallion architecture implementation
 - Dimensional warehouse modeling
