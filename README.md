@@ -43,7 +43,7 @@ Teradata • SQL Server • Oracle • Hadoop • AWS  
 ETL/ELT Pipelines • CI/CD • Git • Data Modeling • Automation  
 
 ---
-## 🔹 View my Website
+## 🔹 [View my Resume](https://www.metavasis.ai)
 <b>Modern React-based website with modular architecture and CI/CD deployment using the Metavasis Framework.</b>
 - React + Vite + Tailwind  
 - Data-driven component structure  
