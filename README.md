@@ -64,11 +64,16 @@ End-to-end analytics project focused on utilization trends and anomaly detection
 
 ---
 
-### ⚙️ [Data Pipeline & Analytics Framework](https://github.com/gnugal314/data-engineering-analytics-portfolio)  
-Scalable pipeline architecture for ingestion, transformation, and analytics consumption  
-- Modular pipeline design  
-- Data quality validation layers  
-- Feature-ready datasets for ML workflows  
+### ⚙️ [Data Pipeline & Analytics Framework]((https://github.com/gnugal314/healthcare-fwa-modernization-platform))  
+Enterprise-grade reference repository for modernizing a legacy healthcare Fraud, Waste, and Abuse reporting ecosystem to a governed, secure, auditable, automated analytics platform:
+- Medallion architecture implementation
+- Dimensional warehouse modeling
+- Governed semantic KPI layer
+- Tableau-ready analytics architecture
+- HIPAA-aware security design
+- Fraud risk scoring and anomaly detection
+- Synthetic healthcare claims generation
+- CI/CD and orchestration patterns
 
 ---
 
