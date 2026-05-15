@@ -43,19 +43,17 @@ Teradata • SQL Server • Oracle • Hadoop • AWS  
 ETL/ELT Pipelines • CI/CD • Git • Data Modeling • Automation  
 
 ---
-
-## 🔹 Selected Work  
-
-### 🧠 [View my Website](https://www.metavasis.ai)  
-Modern React-based website with modular architecture and CI/CD deployment  
+## 🔹 View my Website
+<b>Modern React-based website with modular architecture and CI/CD deployment using the Metavasis Framework.</b>
 - React + Vite + Tailwind  
 - Data-driven component structure  
 - Vercel deployment with custom domain  
 
 [Smash the portcullis:](https://github.com/gnugal314/project-metavasis)  
-Personal website built with React and deployed on Vercel, showcasing data engineering, analytics, and AI-driven solutions under the Metavasis framework.
 
 ---
+
+## 🔹 Selected Work  
 
 ### 📈 [Healthcare Analytics & Visualization](https://github.com/gnugal314/healthcare-analytics-platform-demo)
 End-to-end analytics project focused on utilization trends and anomaly detection  
