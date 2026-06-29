@@ -77,7 +77,7 @@ Enterprise-grade reference repository for modernizing a legacy healthcare Fraud,
 
 ---
 
-### 📈 {Clinical Dashboard Insight Agent} (Visit [my site](https://www.metavasis.ai) to request access)</b>
+### 📈 [Clinical Dashboard Insight Agent] ([Request access](https://www.metavasis.ai) here)</b>
 
 Dashboard and insight agent that can load clinical data, upload CSV fallback data, analyze clinical marker patterns, generate charts, detect outliers, produce rule-based insights, and generate AI-assisted clinical/business narratives.</b>
 Core Features:
