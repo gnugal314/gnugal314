@@ -77,6 +77,24 @@ Enterprise-grade reference repository for modernizing a legacy healthcare Fraud,
 
 ---
 
+### Clinical Dashboard Insight Agent 
+(visit [my site](https://www.metavasis.ai) to request access)
+Dashboard and insight agent that can load clinical data, upload CSV fallback data, analyze clinical marker patterns, generate charts, detect outliers, produce rule-based insights, and generate AI-assisted clinical/business narratives.
+Core Features:
+
+- Kaggle dataset loading
+- CSV upload fallback
+- Data profiling
+- Population summary
+- Disease and condition distribution
+- Diagnostic marker analysis
+- Symptom frequency analysis
+- Risk and severity grouping
+- Rule-based insight generation
+- AI-powered narrative generation
+
+---
+
 ## 🔹 How I Work
 I approach data systems as products — built for reliability, scalability, and real-world decision-making.  
 
